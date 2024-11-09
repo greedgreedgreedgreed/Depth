@@ -1,1 +1,1 @@
-getgenv().Status = true  -- true or false to disable script
+return false  -- false or true to enable script
