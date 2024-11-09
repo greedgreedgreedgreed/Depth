@@ -1,1 +1,1 @@
-return true  -- false or true
+return true
