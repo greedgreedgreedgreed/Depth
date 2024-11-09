@@ -1,1 +1,1 @@
-return false  -- false or true to enable script
+return false  -- false or true
